@@ -1,6 +1,9 @@
-<p align="center"> <a href="https://github.com/HM-MODS/HM-LEECH-ZONE-BOT" target="_blank"> <img src="https://telegra.ph/file/d4cc36312959cca9d9382.png" alt="HM-LEECH-ZONE-BOT" width="860" height="85"/>
+[![HM LEECH ZONE BOT](https://telegra.ph/file/d4cc36312959cca9d9382.png)](https://t.me/hmrequestbot)
 
-# for support join [here](https://telegram.me/hmdiscuss)
+owner of this repo :- [HM MODS](https://github.com/HM-MODS)
+
+contact me :- [HM MODS](https://t.me/hmrequestbot)
+
 
 
 # Telegram Torrent and Direct links Leecher 
