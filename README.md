@@ -1,4 +1,4 @@
-[![HM LEECH ZONE BOT](https://telegra.ph/file/d4cc36312959cca9d9382.png)](https://t.me/hmrequestbot)
+[![HM LEECH ZONE BOT](https://telegra.ph/file/9c54af2d6f60f215ab0ec.png)](https://t.me/hmrequestbot)
 
 owner of this repo :- [HM MODS](https://github.com/HM-MODS)
 
