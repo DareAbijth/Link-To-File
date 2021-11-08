@@ -51,7 +51,7 @@ contact me :- [Abijth](https://t.me/DareAbijth)
                                                                          
 ## Deploying on Heroku
 Click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/DareAbijth/Link-To-File"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 ## Variable Explanations 👇
