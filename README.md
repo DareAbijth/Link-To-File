@@ -1,8 +1,8 @@
-[![HM LEECH ZONE BOT](https://telegra.ph/file/9c54af2d6f60f215ab0ec.png)](https://t.me/hmrequestbot)
+[![HM LEECH ZONE BOT](https://telegra.ph/file/9c54af2d6f60f215ab0ec.png)](https://t.me/DareAbijth)
 
-owner of this repo :- [HM MODS](https://github.com/HM-MODS)
+owner of this repo :- [Abijthkutty](https://github.com/Abijithkutty)
 
-contact me :- [HM MODS](https://t.me/hmrequestbot)
+contact me :- [Abijth](https://t.me/DareAbijth)
 
 
 
@@ -12,7 +12,7 @@ contact me :- [HM MODS](https://t.me/hmrequestbot)
 
 ### Dont Abuse The Repo ... this is intented to run in Small Places or For Short time 😐
 
-## A Telegram Torrent , Direct Links (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
+## A Telegram File Provider , Direct Links (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
