@@ -189,4 +189,5 @@ Available BOT  Commands | Usage
 ### send any one of the available command, as a reply to a valid link/magnet/torrent. 
 
 ## Credits, and Thanks to
-* HM_MODS FOR CREATING
+* 
+[TypicalGamerYT](https://github.com/TypicalGamerYT) For His Rclone.config
